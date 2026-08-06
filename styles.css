@@ -1,0 +1,21 @@
+:root { 
+    --primary-purple: #a254f0;
+    --accent-red: #e18c93;
+    --ink-black: #0e0e0e;
+    --paper-white: #fafafa;
+    --font-heading: 'Bricolage Grotesque', sans-serif;
+    --font-body: 'Sora', sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+}
+
+body{
+    margin:0;
+    font-family: var(--font-body);
+    background-color: var(--ink-black);
+    color: var(--paper-white);
+}
+
+h1{
+    font-family: var(--font-heading);
+    color: var(--primary-purple);
+}
