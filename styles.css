@@ -1,4 +1,5 @@
-:root { 
+:root 
+{ 
     --primary-purple: #a254f0;
     --accent-red: #e18c93;
     --ink-black: #0e0e0e;
@@ -8,14 +9,16 @@
     --font-mono: 'JetBrains Mono', monospace;
 }
 
-body{
+body
+{
     margin:0;
     font-family: var(--font-body);
     background-color: var(--ink-black);
     color: var(--paper-white);
 }
 
-h1{
+h1
+{
     font-family: var(--font-heading);
     color: var(--primary-purple);
 }
