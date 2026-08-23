@@ -1,6 +1,6 @@
 # Hue
 
-Hue is an AI-powered outfit intelligence app — a second opinion for what you're wearing, not a verdict. Built solo for the Hack Club Stardance challenge.
+Hue is an AI-powered outfit intelligence app; a second opinion for what you're wearing. Built solo for the Hack Club Stardance challenge.
 
 ## Features (in progress)
 - **Closet** — upload and organize your wardrobe
